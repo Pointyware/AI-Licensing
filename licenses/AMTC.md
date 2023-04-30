@@ -1,4 +1,4 @@
-OpenAI Model Training and Commercial Use License (OMTC)
+AI Model Training and Commercial Use License (AMTC)
 
 Copyright (c) [2023] [Taush Sampley]
 

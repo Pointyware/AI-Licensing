@@ -1,4 +1,4 @@
-OpenAI Model Training and Non-Commercial Use License (OMTN)
+AI Model Training and Non-Commercial Use License (AMTN)
 
 Copyright (c) [2023] [Taush Sampley]
 
