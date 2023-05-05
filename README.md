@@ -8,4 +8,6 @@ After a brief collaboration with GPT-4, we generated the following 3 licenses:
 3. [AI Model Training and Commercial Use License (AMTC)](licenses/AMTC.md)
 
 ## External, Novel Licenses
-* [DeepFloyd IF License](https://huggingface.co/spaces/DeepFloyd/deepfloyd-if-license) - The bleeding edge, image generator [DeepFloyd IF](https://huggingface.co/spaces/DeepFloyd/IF) has created a license specific to its use.
+* The bleeding edge, image generator DeepFloyd IF ([GitHub](https://github.com/deep-floyd/IF)/[HuggingFace Space](https://huggingface.co/spaces/DeepFloyd/IF)) has created [two licenses for different use cases](https://github.com/deep-floyd/IF#license): 
+  1. [DeepFloyd IF (Model) License](https://github.com/deep-floyd/IF/blob/develop/LICENSE-MODEL) required to use the model through HuggingFace, hosted here: https://huggingface.co/spaces/DeepFloyd/deepfloyd-if-license
+  2. [DeepFloyd IF (Open Source) License](https://github.com/deep-floyd/IF/blob/develop/LICENSE-MODEL) for use of the codebase.
